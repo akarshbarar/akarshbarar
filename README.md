@@ -35,7 +35,7 @@
 - 🔭 I’m currently working as Full Stack Software Developer at [Novelvox](https://www.novelvox.com).
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/CodeCave).
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Flutter or any Programming Stuff try mostly to solve it.
 - 📫 How to reach me: [Twitter - @akarshbarar](https://twitter.com/AkarshBarar) , [Youtube - @codecave](https://www.youtube.com/c/CodeCave)
 - ⚡ I am a Code Blodded Developer
 
