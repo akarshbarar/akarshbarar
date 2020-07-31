@@ -39,7 +39,7 @@
 - 📫 How to reach me: [Twitter - @akarshbarar](https://twitter.com/AkarshBarar) , [Youtube - @codecave](https://www.youtube.com/c/CodeCave)
 - ⚡ I am a Code Blodded Developer
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Twitter: AkarshBarar](https://img.shields.io/twitter/follow/AkarshBarar?style=social)](https://twitter.com/AkarshBarar)
 [![GitHub akarshbarar](https://img.shields.io/github/followers/akarshbarar?label=follow&style=social)](https://github.com/akarshbarar)
 
    
