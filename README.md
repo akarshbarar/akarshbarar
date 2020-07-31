@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/CodeCave).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @akarshbarar](https://twitter.com/AkarshBarar) , [Youtube - @codecave](https://www.youtube.com/c/CodeCave)
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ I am a Code Blodded Developer
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![GitHub akarshbarar](https://img.shields.io/github/followers/akarshbarar?label=follow&style=social)](https://github.com/akarshbarar)
