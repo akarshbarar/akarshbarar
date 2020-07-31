@@ -1,16 +1,56 @@
-### Hi there 👋
+## Hey There, I'm Akarsh Barar 👋
 
-<!--
-**akarshbarar/akarshbarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshbarar&label=Views&color=blue&style=plastic" alt="akarshbarar" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/CodeCave2">
+  <img align="left" alt="CodeCave's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com/AkarshBarar">
+  <img align="left" alt="Akarsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/akarsh-barar-50588b131/">
+  <img align="left" alt="Akarsh Barar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/akarshbarar">
+  <img align="left" alt="Akarsh Barar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/mycodecave/">
+  <img align="left" alt="Akarsh Barar || CodeCave 's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/akarsh.barar.7">
+  <img align="left" alt="Akarsh Barar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/c/CodeCave">
+  <img align="left" alt="CodeCave's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+
+- 🔭 I’m currently working as Full Stack Software Developer at [Novelvox](https://www.novelvox.com).
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/CodeCave).
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Twitter - @akarshbarar](https://twitter.com/AkarshBarar) , [Youtube - @codecave](https://www.youtube.com/c/CodeCave)
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![GitHub akarshbarar](https://img.shields.io/github/followers/akarshbarar?label=follow&style=social)](https://github.com/akarshbarar)
+
+   
+
+<a href="https://github.com/akarshbarar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshbarar&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/akarshbarar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akarshbarar&show_icons=true&theme=dracula&line_height=27" alt="Akarsh Barar's github stats"/>
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
