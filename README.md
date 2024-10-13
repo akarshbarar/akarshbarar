@@ -32,7 +32,7 @@
 
 
 
-- 🔭 I’m currently working as Full Stack Software Developer at [MySense](https://www.skeps.com).
+- 🔭 I’m currently working as Full Stack Software Developer at [CGI](https://www.cgi.com/en).
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/CodeCave).
 - 💬 Ask me about Flutter or any Programming Stuff try mostly to solve it.
